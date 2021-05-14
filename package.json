@@ -13,7 +13,7 @@
     "google-news-json": "^1.0.3",
     "next": "9.4.1",
     "next-pwa": "^2.4.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-fade-in": "^1.0.0",
